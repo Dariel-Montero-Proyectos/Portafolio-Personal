@@ -50,7 +50,7 @@ export default {
           id: 8,
           name: 'Python',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/python-3628999-3030224.png',
-          status: 'Intermedio'
+          status: 'Basico'
         },
         {
           id: 9,
@@ -68,7 +68,7 @@ export default {
           id: 11,
           name: 'C#',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/c-sharp-569564.png',
-          status: 'Intermedio'
+          status: 'Basico'
         },
         {
           id: 12,
@@ -176,7 +176,7 @@ export default {
 
       <header>
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
-          Sobre Mí &nbsp;
+          {{ $t('about.title') }} &nbsp;
           <div class="h-[1px] w-32 bg-amber-200 md:w-96 aos-init aos-animate" data-aos="zoom-in-left"
             data-aos-duration="600"></div>
         </div>
@@ -191,10 +191,10 @@ export default {
   </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; ¡Hola! Soy Dariel, un desarrollador web y estudiante de Ingeniería Informática en la Universidad Castro Carazo (5° cuatrimestre de 8). Soy una persona extremadamente puntual, respetuosa, profesional y ética, con excelentes relaciones interpersonales tanto para trabajo en equipo como individual.
+            &nbsp; &nbsp; &nbsp; Dariel, desarrollador web y estudiante de Ingeniería Informática en la Universidad Castro Carazo (7.º cuatrimestre de 8). Se caracteriza por un alto nivel de responsabilidad, puntualidad y ética profesional, así como por sólidas competencias interpersonales que le permiten integrarse y aportar valor tanto en equipos multidisciplinarios como en funciones desempeñadas de manera autónoma, manteniendo siempre estándares elevados de calidad y profesionalismo.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; Profesional especializado en proyectos digitales, control de calidad de software y desarrollo de servicios digitales y aplicaciones móviles. Experiencia en la gestión, análisis y creación de soluciones web personalizadas, integrando conocimientos en programación, diseño responsivo y gestión de bases de datos. Enfocado en optimizar procesos digitales, mejorar la experiencia de usuario y fortalecer la presencia digital de las empresas.
+            &nbsp; &nbsp; &nbsp; Estudiante con más de 2 años de experiencia en proyectos digitales, desarrollo de servicios digitales y aplicaciones móviles. Especializado en frontend y backend, combinando conocimientos en diseño responsivo, programación y gestión de bases de datos para optimizar la presencia digital.
           </p>
         </div>
 
@@ -209,7 +209,7 @@ export default {
         <div class="text-2xl font-bold text-white mb-5 fadein-bot title-section flex items-center">
           <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate" data-aos="zoom-in-left"
             data-aos-duration="600"></div>
-          &nbsp; Habilidades Técnicas
+          &nbsp; {{ $t('about.skills') }}
         </div>
       </header>
       <section>
@@ -217,15 +217,15 @@ export default {
           <ul class="flex flex-wrap text-sm font-medium text-center text-gray-500 dark:text-gray-400 mb-5">
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">Frontend & Backend</button>
+                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 1 }" @click="activeTab = 1">{{ $t('about.tabs.frontend') }}</button>
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">Bases de Datos</button>
+                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 2 }" @click="activeTab = 2">{{ $t('about.tabs.database') }}</button>
             </li>
             <li class="mr-2">
               <button class="inline-block px-4 py-3 rounded-lg hover:text-white"
-                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 3 }" @click="activeTab = 3">Herramientas</button>
+                :class="{ 'text-amber-200 bg-amber-200 bg-opacity-10': activeTab === 3 }" @click="activeTab = 3">{{ $t('about.tabs.tools') }}</button>
             </li>
           </ul>
         </div>

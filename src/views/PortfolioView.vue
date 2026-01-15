@@ -163,9 +163,9 @@ export default {
         <div
           class="text-2xl font-bold text-white mb-10 fadein-bot title-section flex items-center justify-center flex-col">
           <!-- <div class="h-[1px] w-10 bg-amber-200 md:w-20 aos-init aos-animate"></div> -->
-          <h4>Proyectos Desarrollados</h4>
+          <h4>{{ $t('portfolio.title') }}</h4>
           <h4 class="text-base font-normal text-transparent bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300">
-            Explora los proyectos en los que he trabajado hasta ahora</h4>
+            {{ $t('portfolio.subtitle') }}</h4>
         </div>
       </header>
       <section>
