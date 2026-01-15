@@ -138,7 +138,8 @@ export default {
           imageUrl: 'Moda Urbana',
           status: 'Sitio web profesional con diseño atractivo y funcional, enfocado en destacar productos de moda urbana y potenciar las ventas en línea.',
           tech: 'React, Tailwind CSS',
-          
+          github: 'null',
+          demo: 'null'
         },
         {
           id: 20,
