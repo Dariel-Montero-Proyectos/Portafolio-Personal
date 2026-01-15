@@ -216,112 +216,144 @@ const messages = {
                     name: 'FastWay Box',
                     imageUrl: 'Fatway',
                     status: 'Corporate website with a clean, functional design, focused on highlighting courier and logistics services, optimizing user experience and key information presentation.',
-                    tech: 'HTML, CSS, JavaScript'
+                    tech: 'HTML, CSS, JavaScript',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 2,
                     name: 'ProPlastCR',
                     imageUrl: 'ProPlastCR',
                     status: 'Modern and responsive corporate website, designed with emphasis on usability and attractive visual aesthetics that reinforce brand identity.',
-                    tech: 'HTML, CSS, JavaScript'
+                    tech: 'HTML, CSS, JavaScript',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 3,
                     name: 'LexIA',
                     imageUrl: 'LexIA',
                     status: 'AI-powered legal assistant that helps users navigate the legal system with precise and fast answers.',
-                    tech: 'React, Tailwind, TypeScript, AI Integration'
+                    tech: 'React, Tailwind, TypeScript, AI Integration',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 4,
                     name: 'Luz de Plata',
                     imageUrl: 'Luz de plata',
                     status: 'Online jewelry store with an elegant and functional design, aimed at providing an intuitive user experience.',
-                    tech: 'React, Vue , TypeScript, Tailwind CSS'
+                    tech: 'React, Vue , TypeScript, Tailwind CSS',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 6,
                     name: 'Grupo Barak',
                     imageUrl: 'GrupoBarak',
                     status: 'Modern and responsive corporate website, designed with a focus on usability and polished visual aesthetics to project a professional image.',
-                    tech: 'HTML, CSS, JavaScript'
+                    tech: 'HTML, CSS, JavaScript',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 7,
                     name: 'BizVentory',
                     imageUrl: 'BizVentory',
                     status: 'Intelligent inventory management system with real-time analytics and demand predictions.',
-                    tech: 'TypeScript, React, Laravel, MySQL'
+                    tech: 'TypeScript, React, Laravel, MySQL',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 8,
                     name: 'VitalForma',
                     imageUrl: 'VitalForma',
                     status: 'Corporate website with attractive and professional design, focused on highlighting health and wellness services in a clear and accessible way.',
-                    tech: 'HTML, CSS, JavaScript'
+                    tech: 'HTML, CSS, JavaScript',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 9,
                     name: 'Bella Natura',
                     imageUrl: 'Bella Natura',
                     status: 'Online store for natural and organic products with a clean and functional design, focused on sustainability and large-scale sales growth.',
-                    tech: 'React, TypeScript, Tailwind'
+                    tech: 'React, TypeScript, Tailwind',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 10,
                     name: 'Cafe Nativo',
                     imageUrl: 'Cafe Nativo',
                     status: 'Corporate website with attractive and functional design, focused on highlighting coffee-related products and services in a clear and visually pleasing way.',
-                    tech: 'HTML, CSS, JavaScript'
+                    tech: 'HTML, CSS, JavaScript',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 12,
                     name: 'Belleza Divina',
                     imageUrl: 'Belleza Divina',
                     status: 'Corporate website for Belleza Divina, with an attractive and functional design that highlights its beauty and wellness services.',
-                    tech: 'Vue.js, Tailwind CSS'
+                    tech: 'Vue.js, Tailwind CSS',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 13,
                     name: 'EcoVida',
                     imageUrl: 'EcoVida',
                     status: 'Online store for ecological products with a clean and functional design, focused on sustainability and fair trade.',
-                    tech: 'PHP, Laravel, Oracle'
+                    tech: 'PHP, Laravel, Oracle',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 14,
                     name: 'MoneyWise',
                     imageUrl: 'MoneyWise',
                     status: 'Collaboration tool for users to better manage their personal finances.',
-                    tech: 'React, TypeScript, Tailwind'
+                    tech: 'React, TypeScript, Tailwind',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 15,
                     name: 'Sabores del Alma',
                     imageUrl: 'Sabores del alma',
                     status: 'Corporate website with attractive and functional design, focused on highlighting the menu and the brand\'s most representative dishes.',
-                    tech: 'HTML, CSS, JavaScript'
+                    tech: 'HTML, CSS, JavaScript',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 16,
                     name: 'TecnoPlus',
                     imageUrl: 'TecnoPlus',
                     status: 'Online technology store with a modern and functional design, focused on user experience.',
-                    tech: 'React, TypeScript, Tailwind'
+                    tech: 'React, TypeScript, Tailwind',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 17,
                     name: 'HRIS PRO',
                     imageUrl: 'HRIS PRO',
                     status: 'Human resources management system that optimizes personnel administration with advanced functionalities.',
-                    tech: 'Laravel, Vue.js, MySQL'
+                    tech: 'Laravel, Vue.js, MySQL',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 18,
                     name: 'TicoBarbers',
                     imageUrl: 'TicoBarbers',
                     status: 'E-commerce platform for appointment management and barbershop product sales, with a modern and functional design.',
-                    tech: 'React, TypeScript, PHP, MySQL'
+                    tech: 'React, TypeScript, PHP, MySQL',
+                    github: 'null',
+                    demo: 'null'
                 },
                 {
                     id: 19,
