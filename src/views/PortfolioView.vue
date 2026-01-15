@@ -146,7 +146,8 @@ export default {
           imageUrl: 'HorasApp',
           status: 'Un registro de horas intuitivo y fácil de usar para freelancers y equipos.',
           tech: 'React, PHP, Oracle',
-          
+          github: 'null',
+          demo: 'null'
         }
       ]
     };
