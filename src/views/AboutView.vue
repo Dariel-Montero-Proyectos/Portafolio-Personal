@@ -187,14 +187,14 @@ export default {
   <div class="flex justify-center">
     <img class="w-64 h-64 md:w-72 md:h-72 rounded-full mb-3 fadein-up object-cover object-center"
          src="/img/Foto Mia.jpg" 
-         alt="Foto de perfil">
+         :alt="$t('about.profileAlt')">
   </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Dariel, desarrollador web y estudiante de Ingeniería Informática en la Universidad Castro Carazo (7.º cuatrimestre de 8). Se caracteriza por un alto nivel de responsabilidad, puntualidad y ética profesional, así como por sólidas competencias interpersonales que le permiten integrarse y aportar valor tanto en equipos multidisciplinarios como en funciones desempeñadas de manera autónoma, manteniendo siempre estándares elevados de calidad y profesionalismo.
+            &nbsp; &nbsp; &nbsp; {{ $t('about.description1') }}
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; Estudiante con más de 2 años de experiencia en proyectos digitales, desarrollo de servicios digitales y aplicaciones móviles. Especializado en frontend y backend, combinando conocimientos en diseño responsivo, programación y gestión de bases de datos para optimizar la presencia digital.
+            &nbsp; &nbsp; &nbsp; {{ $t('about.description2') }}
           </p>
         </div>
 
