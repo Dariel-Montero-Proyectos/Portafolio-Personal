@@ -10,8 +10,7 @@ export default {
           imageUrl: 'Fatway',
           status: 'Sitio web corporativo con un diseño limpio, funcional y orientado a destacar servicios de mensajería y logística, optimizando la experiencia del usuario y la presentación de información clave.',
           tech: 'HTML, CSS, JavaScript',
-          github: 'https://github.com/Dariel-Montero-Proyectos/Fastway',
-          demo: 'https://fastway-rho.vercel.app/'
+          
         },
         {
           id: 2,
@@ -19,8 +18,7 @@ export default {
           imageUrl: 'ProPlastCR',
           status: 'Sitio web corporativo moderno y responsivo, diseñado con énfasis en la usabilidad y una estética visual atractiva que refuerza la identidad de una marca.',
           tech: 'HTML, CSS, JavaScript',
-          github: 'https://github.com/Dariel-Montero-Proyectos/ProPlast',
-          demo: 'https://pro-plast.vercel.app/'
+          
         },
         {
           id: 3,
@@ -28,8 +26,7 @@ export default {
           imageUrl: 'LexIA',
           status: 'Asistente legal impulsado por IA que ayuda a los usuarios a navegar por el sistema legal con respuestas precisas y rápidas.',
           tech: 'React, Tailwind, TypeScript, AI Integration',
-          github: 'https://github.com/Dariel-Montero-Proyectos/LexIA',
-          demo: 'https://lex-ia-hazel.vercel.app/'
+          
         },
         {
           id: 4,
@@ -37,8 +34,7 @@ export default {
           imageUrl: 'Luz de plata',
           status: 'Tienda en línea de joyería con diseño elegante y funcional, orientada a brindar una experiencia de usuario intuitiva.',
           tech: 'React, Vue , TypeScript, Tailwind CSS',
-          github: 'https://github.com/Dariel-Montero-Proyectos/Luz-de-Plata',
-          demo: 'https://luz-de-plata.vercel.app/'
+          
         },
         {
           id: 6,
@@ -46,8 +42,7 @@ export default {
           imageUrl: 'GrupoBarak',
           status: 'Sitio web corporativo moderno y responsivo, diseñado con enfoque en usabilidad y una estética visual cuidada para proyectar una imagen profesional.',
           tech: 'HTML, CSS, JavaScript',
-          github: 'https://github.com/Dariel-Montero-Proyectos/barak',
-          demo: 'https://barak-tau.vercel.app/'
+          
         },
         {
           id: 7,
@@ -55,8 +50,7 @@ export default {
           imageUrl: 'BizVentory',
           status: 'Sistema de gestión de inventario inteligente con análisis en tiempo real y predicciones de demanda.',
           tech: 'TypeScript, React, Laravel, MySQL',
-          github: 'null',
-          demo: 'null'
+          
         },
         {
           id: 8,
@@ -64,8 +58,7 @@ export default {
           imageUrl: 'VitalForma',
           status: 'Sitio web corporativo con diseño atractivo y profesional, enfocado en destacar servicios de salud y bienestar de forma clara y accesible.',
           tech: 'HTML, CSS, JavaScript',
-          github: 'https://github.com/Dariel-Montero-Proyectos/VitalForma',
-          demo: 'https://vital-forma.vercel.app/'
+          
         },
         {
           id: 9,
@@ -73,8 +66,7 @@ export default {
           imageUrl: 'Bella Natura',
           status: 'Tienda en línea de productos naturales y orgánicos con un diseño limpio y funcional, enfocada en la sostenibilidad y el aumento de ventas a gran escala.',
           tech: 'React, TypeScript, Tailwind',
-          github: 'https://github.com/Dariel-Montero-Proyectos/Bella-Natura',
-          demo: 'https://bella-natura.vercel.app/'
+          
         },
         {
           id: 10,
@@ -82,8 +74,7 @@ export default {
           imageUrl: 'Cafe Nativo',
           status: 'Sitio web corporativo con diseño atractivo y funcional, enfocado en resaltar productos y servicios relacionados con el café de manera clara y visualmente agradable.',
           tech: 'HTML, CSS, JavaScript',
-          github: 'https://github.com/Dariel-Montero-Proyectos/Cafe-Nativo',
-          demo: 'https://cafe-nativo-three.vercel.app/'
+          
         },
         {
           id: 12,
@@ -91,8 +82,7 @@ export default {
           imageUrl: 'Belleza Divina',
           status: 'Sitio web corporativo para Belleza Divina, con un diseño atractivo y funcional que destaca sus servicios de belleza y bienestar.',
           tech: 'Vue.js, Tailwind CSS',
-          github: 'https://github.com/Dariel-Montero-Proyectos/Belleza-Divina',
-          demo: 'https://belleza-divina.vercel.app/'
+         
         },
         {
           id: 13,
@@ -100,8 +90,7 @@ export default {
           imageUrl: 'EcoVida',
           status: 'Tienda en línea de productos ecológicos con un diseño limpio y funcional, enfocada en la sostenibilidad y el comercio justo.',
           tech: 'PHP, Laravel, Oracle',
-          github: 'https://github.com/Dariel-Montero-Proyectos/EcoVida',
-          demo: 'https://eco-vida-xi.vercel.app/'
+        
         },
         {
           id: 14,
@@ -109,8 +98,7 @@ export default {
           imageUrl: 'MoneyWise',
           status: 'Herramienta de colaboración para que los usuarios manejen mejor sus finanzas personales.',
           tech: 'React, TypeScript, Tailwind',
-          github: 'https://github.com/Dariel17-mo/MoneyWise',
-          demo: 'https://moneywise--lilac.vercel.app/'
+          
         },
         {
           id: 15,
@@ -118,8 +106,7 @@ export default {
           imageUrl: 'Sabores del alma',
           status: 'Sitio web corporativo con diseño atractivo y funcional, enfocado en destacar el menú y los platos más representativos de la marca.',
           tech: 'HTML, CSS, JavaScript',
-          github: 'https://github.com/Dariel-Montero-Proyectos/Sabores-del-Alma',
-          demo: 'https://sabores-del-alma.vercel.app/'
+        
         },
         {
           id: 16,
@@ -127,8 +114,7 @@ export default {
           imageUrl: 'TecnoPlus',
           status: 'Tienda en línea de tecnología con un diseño moderno y funcional, enfocada en la experiencia del usuario.',
           tech: 'React, TypeScript, Tailwind',
-          github: 'https://github.com/Dariel-Montero-Proyectos/TecnoPlus',
-          demo: 'https://tecno-plus.vercel.app/'
+          
         },
         {
           id: 17,
@@ -136,8 +122,7 @@ export default {
           imageUrl: 'HRIS PRO',
           status: 'Sistema de gestión de recursos humanos que optimiza la administración del personal con funcionalidades avanzadas.',
           tech: 'Laravel, Vue.js, MySQL',
-          github: 'null',
-          demo: 'null'
+          
         },
         {
           id: 18,
@@ -145,8 +130,7 @@ export default {
           imageUrl: 'TicoBarbers',
           status: 'Plataforma de e-commerce para gestión de citas y venta de productos de barbería, con un diseño moderno y funcional.',
           tech: 'React, TypeScript, PHP, MySQL',
-          github: 'null',
-          demo: 'null'
+          
         },
         {
           id: 19,
@@ -154,8 +138,7 @@ export default {
           imageUrl: 'Moda Urbana',
           status: 'Sitio web profesional con diseño atractivo y funcional, enfocado en destacar productos de moda urbana y potenciar las ventas en línea.',
           tech: 'React, Tailwind CSS',
-          github: 'https://github.com/Dariel-Montero-Proyectos/Moda-Urbana',
-          demo: 'https://moda-urbana-ten.vercel.app/'
+          
         },
         {
           id: 20,
@@ -163,8 +146,7 @@ export default {
           imageUrl: 'HorasApp',
           status: 'Un registro de horas intuitivo y fácil de usar para freelancers y equipos.',
           tech: 'React, PHP, Oracle',
-          github: 'https://github.com/Dariel17-mo/APPAPI',
-          demo: 'https://appapi-lemon.vercel.app/'
+          
         }
       ]
     };
