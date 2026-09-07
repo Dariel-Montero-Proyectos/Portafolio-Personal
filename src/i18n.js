@@ -7,10 +7,10 @@ const messages = {
             name: 'Dariel Montero',
             roles: [
                 'Desarrollador Full-Stack',
-                'Estudiante de Ingeniería',
-                'Apasionado de la tecnología'
+                'QA Automation',
+                'Estudiante de Ingeniería Informática'
             ],
-            welcome: 'Bienvenido a mi sitio web personal.',
+            welcome: 'Desarrollo aplicaciones web y automatizo pruebas para crear soluciones funcionales, confiables y fáciles de usar.',
             call: 'Llamar',
             email: 'Correo Electrónico',
             profileAlt: 'Foto de perfil - Dariel Montero'
@@ -30,10 +30,10 @@ const messages = {
             tabs: {
                 frontend: 'Frontend & Backend',
                 database: 'Bases de Datos',
-                tools: 'Herramientas'
+                tools: 'Herramientas y QA'
             },
-            description1: 'Dariel, desarrollador web y estudiante de Ingeniería Informática en la Universidad Castro Carazo (7.º cuatrimestre de 8). Se caracteriza por un alto nivel de responsabilidad, puntualidad y ética profesional, así como por sólidas competencias interpersonales que le permiten integrarse y aportar valor tanto en equipos multidisciplinarios como en funciones desempeñadas de manera autónoma, manteniendo siempre estándares elevados de calidad y profesionalismo.',
-            description2: 'Estudiante con más de 2 años de experiencia en proyectos digitales, desarrollo de servicios digitales y aplicaciones móviles. Especializado en frontend y backend, combinando conocimientos en diseño responsivo, programación y gestión de bases de datos para optimizar la presencia digital.',
+            description1: 'Soy Dariel Montero, desarrollador Full-Stack de Costa Rica y estudiante de Ingeniería Informática en la Universidad Castro Carazo. He desarrollado más de 18 proyectos digitales, entre sitios web, tiendas en línea y sistemas de gestión. Trabajo con tecnologías como JavaScript, TypeScript, React, Vue.js, PHP y Laravel, además de bases de datos relacionales. Me enfoco en comprender las necesidades de cada proyecto y convertirlas en aplicaciones funcionales, con interfaces adaptables a distintos dispositivos y código organizado que facilite su mantenimiento.',
+            description2: 'Complemento mi experiencia en desarrollo con conocimientos en aseguramiento de la calidad y automatización de pruebas. De mayo a septiembre de 2026 realicé mi pasantía en GSB Solutions, donde trabajé con Cypress y JavaScript en pruebas End-to-End y de regresión. También participé en la detección, documentación y seguimiento de defectos en Azure DevOps, colaborando con el equipo de desarrollo para revisar incidencias y mejorar la estabilidad del producto. Me caracterizo por la responsabilidad, la comunicación clara y la disposición para aprender y aportar tanto de forma autónoma como en equipo.',
             profileAlt: 'Foto de perfil - Dariel Montero'
         },
         portfolio: {
@@ -179,12 +179,13 @@ const messages = {
             name: 'Dariel Montero',
             roles: [
                 'Full-Stack Developer',
-                'Engineering Student',
-                'Tech Enthusiast'
+                'QA Automation',
+                'Computer Engineering Student'
             ],
-            welcome: 'Welcome to my personal website.',
+            welcome: 'I develop web applications and automate tests to build practical, reliable, and user-friendly solutions.',
             call: 'Call',
-            email: 'Email'
+            email: 'Email',
+            profileAlt: 'Profile picture - Dariel Montero'
         },
         modal: {
             title: 'Selecciona tu idioma',
@@ -201,10 +202,10 @@ const messages = {
             tabs: {
                 frontend: 'Frontend & Backend',
                 database: 'Databases',
-                tools: 'Tools'
+                tools: 'Tools & QA'
             },
-            description1: 'Dariel, web developer and Systems Engineering student at Castro Carazo University (7th quarter of 8). Characterized by a high level of responsibility, punctuality, and professional ethics, as well as solid interpersonal skills that allow him to integrate and add value both in multidisciplinary teams and in autonomous roles, always maintaining elevated standards of quality and professionalism.',
-            description2: 'Student with over 2 years of experience in digital projects, digital service development, and mobile applications. Specialized in frontend and backend, combining knowledge in responsive design, programming, and database management to optimize digital presence.',
+            description1: 'I am Dariel Montero, a Full-Stack developer from Costa Rica and a Computer Engineering student at Castro Carazo University. I have developed more than 18 digital projects, including websites, online stores, and management systems. I work with technologies such as JavaScript, TypeScript, React, Vue.js, PHP, and Laravel, as well as relational databases. I focus on understanding the needs of each project and turning them into functional applications with responsive interfaces and organized, maintainable code.',
+            description2: 'I complement my development experience with skills in quality assurance and test automation. From May to September 2026, I completed an internship at GSB Solutions, where I worked with Cypress and JavaScript on End-to-End and regression testing. I also helped identify, document, and track defects in Azure DevOps, collaborating with the development team to investigate issues and improve product stability. I bring responsibility, clear communication, and a willingness to learn and contribute, both independently and as part of a team.',
             profileAlt: 'Profile picture - Dariel Montero'
         },
         portfolio: {
@@ -368,7 +369,7 @@ const messages = {
                     id: 20,
                     name: 'Registro Horas',
                     imageUrl: 'HorasApp',
-                    status: 'An intuitive and easy-to-use time tracker for freelancers and teams.',
+                    status: 'An intuitive and easy-to-use Time tracker for freelancers and teams.',
                     tech: 'React, PHP, Oracle',
                     github: 'null',
                     demo: 'null'
